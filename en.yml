@@ -1,0 +1,302 @@
+# Language: en
+
+msg-shop-type-admin-regular: "管理员商店"
+msg-shop-type-selling: "卖场"
+msg-shop-type-buying: "采购商店"
+msg-shop-type-trading: "贸易商店"
+msg-shop-type-book: "书店"
+
+msg-shop-type-desc-admin-regular: "有无限的库存"
+msg-shop-type-desc-selling: "向玩家出售物品"
+msg-shop-type-desc-buying: "从玩家那里购买物品"
+msg-shop-type-desc-trading: "与玩家交易物品"
+msg-shop-type-desc-book: "出售书籍副本"
+
+msg-shop-object-type-living: "{type}"
+msg-shop-object-type-sign: "标志"
+msg-shop-object-type-npc: "npc"
+
+msg-selected-shop-type: "&a所选店铺类型: &6{type} &7({description})"
+msg-selected-shop-object-type: "标志 &6{type}"
+
+msg-creation-item-selected: |-
+  &a店铺创建:
+  &e  左/右键单击以选择商店类型。25＆e潜行+左/右键单击以选择对象类型.
+  &e  右键单击一个箱子将其选中。26＆e然后右键单击一个块以放置店主.
+msg-button-previous-page: "&6<- 上一页 ({prev_page} of {max_page}) ->"
+msg-button-previous-page-lore: []
+msg-button-next-page: "&6<- 下一页 ({next_page} of {max_page}) ->"
+msg-button-next-page-lore: []
+msg-button-current-page: "&6第 {page} 页,共 {max_page} 页"
+msg-button-current-page-lore: []
+
+msg-button-name: "&a设定店铺名称"
+msg-button-name-lore:
+- 让您重命名
+- 您的商店
+msg-button-chest: "＆a查看箱子库存"
+msg-button-chest-lore:
+- 让您查看库存
+- 您的商店正在使用
+msg-button-delete: "&4删除"
+msg-button-delete-lore:
+- 关闭并移除
+- 这个商店
+msg-button-hire: "&a聘请"
+msg-button-hire-lore:
+- 购买此商店
+
+msg-button-sign-variant: "&a选择标志款型"
+msg-button-sign-variant-lore:
+- "更改标志的"
+- "木头类型"
+msg-button-baby: "&a切换婴儿款型"
+msg-button-baby-lore:
+- "在暴民之间切换"
+- "婴儿和成人款型"
+msg-button-sitting: "&a切换坐姿"
+msg-button-sitting-lore:
+- "切换暴民的"
+- "坐姿"
+msg-button-cat-variant: "&a选择猫的款型"
+msg-button-cat-variant-lore:
+- "改变猫的外观"
+msg-button-rabbit-variant: "&选择兔子款型"
+msg-button-rabbit-variant-lore:
+- "改变兔子的外观"
+msg-button-collar-color: "&选择衣领颜色"
+msg-button-collar-color-lore:
+- "改变暴民的"
+- "衣领颜色
+msg-button-wolf-angry: "&a切换愤怒的狼"
+msg-button-wolf-angry-lore:
+- "切换狼的"
+- "愤怒状态"
+msg-button-carrying-chest: "&a切换携带胸件"
+msg-button-carrying-chest-lore:
+- "切换是否暴民"
+- "扛着箱子"
+msg-button-horse-color: "&a选择马的颜色"
+- "改变颜色"
+- "关于马的"
+msg-button-horse-style: "&a选择马的风格"
+msg-button-horse-style-lore:
+- "改变外套图案"
+- "关于马的"
+msg-button-horse-armor: "&a选择马的装甲"
+msg-button-horse-armor-lore:
+- "换装甲"
+- "关于马的"
+msg-button-llama-variant: "&a选择羊驼款型"
+msg-button-llama-variant-lore:
+- "改变羊驼的外观"
+msg-button-llama-carpet-color: "&a羊驼地毯的颜色"
+msg-button-llama-carpet-color-lore:
+- "改变羊驼的"
+- "地毯色
+msg-button-creeper-charged: "&a切换带电的爬行者"
+msg-button-creeper-charged-lore:
+- "切换爬行者的"
+- "荷电状态"
+msg-button-fox-variant: "&a选择狐狸款型"
+msg-button-fox-variant-lore:
+- "改变狐狸的样子"
+msg-button-fox-crouching: "&a切换下蹲姿势"
+msg-button-fox-crouching-lore:
+- "切换狐狸的"
+- "下蹲姿势"
+msg-button-fox-sleeping: "&a切换睡眠姿势"
+msg-button-fox-sleeping-lore:
+- "切换狐狸的"
+- "睡眠姿势"
+msg-button-mooshroom-variant: "&a哞菇款型"
+msg-button-mooshroom-variant-lore:
+- "改变外观"
+- "关于哞菇的"
+msg-button-panda-variant: "&a选择熊猫款型"
+msg-button-panda-variant-lore:
+- "改变熊猫的外观"
+msg-button-parrot-variant: "&a选择鹦鹉变体"
+msg-button-parrot-variant-lore:
+- "改变鹦鹉的外观"
+msg-button-pig-saddle: "&a切换猪鞍"
+msg-button-pig-saddle-lore:
+- "切换猪鞍”
+msg-button-sheep-color: "&a选择羊的颜色"
+- "改变了羊的"
+- "羊毛色"
+msg-button-sheep-sheared: "&a切换剪羊毛的羊"
+msg-button-sheep-sheared-lore:
+- "切换羊毛的"
+- "剪切状态"
+msg-button-villager-profession: "&选择村民职业"
+msg-button-villager-profession-lore:
+- "改变职业"
+- "关于村民的"
+msg-button-villager-variant: "&“选择村民款型”
+msg-button-villager-variant-lore:
+- "改变外观"
+- "关于村民的"
+msg-button-villager-level: "&选择村民徽章颜色"
+msg-button-villager-level-lore:
+- "更改徽章颜色"
+- "关于村民的"
+msg-button-zombie-villager-profession: "&选择村民职业"
+msg-button-zombie-villager-profession-lore:
+- "改变职业"
+- "关于僵尸村民的"
+
+msg-trading-title-prefix: "&2"
+msg-trading-title-default: "商店"
+
+msg-selected-chest: "&a胸部已选定！右键单击一个块以放置您的店主"
+msg-must-select-chest: "&7在放置商店之前，您必须右键单击箱子"
+msg-no-chest-selected: "&7所选块不是箱子！"
+msg-chest-too-far: "&7商店的胸部距离太远了！"
+msg-chest-not-placed: "&7您必须选择最近放置的箱子！"
+msg-chest-already-in-use: "&7另一个商店已经在使用所选的箱子"
+msg-no-chest-access: "&7您无法访问所选的箱子！"
+msg-too-many-shops: "&7您的商店太多了！"
+msg-no-admin-shop-type-selected: "＆7您必须选择管理员商店类型！"
+msg-no-player-shop-type-selected: "&7您必须选择一个玩家商店类型!"
+msg-shop-create-fail: "&7您不能在此处创建商店。
+msg-type-new-name: "&a请在聊天框中输入商店名称。\ n＆a输入破折号（-）以删除名称。"
+msg-name-set: "&店铺名称已设定!"
+msg-name-has-not-changed: "&a店铺名称未更改。"
+msg-name-invalid: "&该名称无效！!"
+
+msg-shop-type-disabled: "7商店类型'＆6 {type}＆7'被禁用。."
+msg-shop-object-type-disabled: "＆7商店对象类型“＆6 {type}＆7”已禁用。"
+
+msg-must-target-shop: "&7你必须瞄准一个店主。”171msg-must-target-admin-shop：“＆7您必须定位管理员店主。”172msg-must-target-player-shop：“＆7您必须定位一个玩家商店r."
+msg-target-entity-is-no-shop: "&7目标实体不是商店"
+msg-target-shop-is-no-admin-shop: "&7目标商店不是管理员商店."
+msg-target-shop-is-no-player-shop: "&7目标商店不是玩家商店."
+msg-unused-chest: "＆7没有商店在使用这个箱子."
+msg-not-owner: "&7您不是此商店的所有者."
+msg-owner-set: "＆a新所有者设置为＆e {owner}"
+msg-shop-creation-items-given: "&a玩家＆e {player}＆a已收到＆e {amount}＆a商店创建商品！!"
+msg-unknown-book-author: "未知"
+
+msg-trade-perm-set: "&a商店的交易许可已设置为'＆e {perm}＆a'!"
+msg-trade-perm-removed: "&a商店交易许可'＆e {perm}＆a'已被删除！!"
+msg-trade-perm-view: "＆a该商店当前的交易许可为'&e{perm}&a'."
+
+msg-zombie-villager-curing-disabled: "&7僵尸村民的治疗被禁用."
+msg-must-hold-hire-item: "&7您必须手持所需的租赁物品."
+msg-set-for-hire: "&a他的商店被购买."
+msg-hired: "&7您已经雇用了这个商店!"
+msg-missing-hire-perm: "&7您无权雇用商店。"
+msg-cant-hire: "&7您无力雇用这个商店."
+msg-cant-hire-shop-type: "&7您无权雇用这种类型的商店。."
+msg-villager-for-hire: "&7村民提供了他的服务，以换取 &6{costs}x {hire-item}&a."
+
+msg-missing-trade-perm: "&7您无权与此商店交易."
+msg-missing-custom-trade-perm: "&7您无权与此商店交易"
+msg-cant-trade-with-own-shop: "&7您不能与自己的商店进行交易"
+msg-cant-trade-while-owner-online: "&7该商店的所有者 ('&e{owner}&7')在线时,您不能进行交易."
+msg-cant-trade-with-shop-missing-chest: "&7您不能与这家商店交易，因为它的箱子不见了"
+
+msg-shopkeeper-created: "&a &6{type} &7({description})\n{setupDesc}"
+
+msg-shop-setup-desc-selling: |- 
+  &e  将您要出售的物品添加到您的胸部，然后
+  ＆e  潜行时右键单击商店以修改成本。
+msg-shop-setup-desc-buying: |-
+  &e  将您要购买的每种物品之一添加到您的胸部，然后
+  ＆e  潜行时右键单击商店以修改成本。
+msg-shop-setup-desc-trading: |-
+  &e  将您要出售的物品添加到您的胸部，然后
+  ＆e  潜行时右键单击商店以修改成本。
+msg-shop-setup-desc-book: |-
+  &e  将书本和空白书添加到您的胸部，然后
+  ＆e  潜行时右键单击商店以修改成本。
+msg-shop-setup-desc-admin-regular: |-
+  ＆e  潜行时右键单击商店以修改交易。
+msg-trade-setup-desc-header: '&6{shopType}'
+msg-trade-setup-desc-admin-regular:
+- 有无限的库存。
+- 从库存中插入物品。
+- “第一行：结果项”
+- “底行：成本项目”
+msg-trade-setup-desc-selling:
+- 向玩家出售物品。
+- 将要出售的物品插入胸部。
+- 左/右单击以调整金额。
+- “第一行：正在出售的物品”
+- “底行：成本项目”
+msg-trade-setup-desc-buying:
+- 从玩家那里购买物品。
+- 插入您想要的每个项目之一
+- 购买和大量货币项目
+- 进入胸部。
+- 左/右单击以调整金额。
+- “第一行：费用项目”
+- “底行：正在购买的物品”
+msg-trade-setup-desc-trading:
+- 与玩家交易物品。
+- 从库存中提取物品
+- 然后单击一个插槽以将其放置。
+- 左/右单击以调整金额。
+- “第一行：结果项”
+- “底行：成本项目”
+msg-trade-setup-desc-book:
+- 出售书籍副本。
+- 插入书面和空白书
+- 进入胸部。
+- 左/右键单击以调整成本。
+- “第一行：正在出售的图书”
+- “底行：成本项目”
+
+msg-list-admin-shops-header: "&9存在 &e{shopsCount} &9个管理商店: &e(Page {page} of {maxPage})"
+msg-list-player-shops-header: "&9玩家 '&e{player}&9' 拥有 &e{shopsCount} &9个商店: &e(Page {page} of {maxPage})"
+msg-list-shops-entry: "  &e{shopId}) &7{shopName}&r&8位于 &7({location})&8, 类型: &7{shopType}&8, 目的: &7{objectType}"
+
+msg-removed-admin-shops: "&e{shopsCount} &管理商店已删除。."
+msg-removed-shops-of-player: "&e{shopsCount} &ashops of player '&e{player}&a' were removed."
+msg-removed-player-shops: "&e{shopsCount} &apl所有商店都被删除了。."
+
+msg-confirm-remove-all-admin-shops: "&c您将不可撤消地删除所有管理员商店(&6{shopsCount}&c)!"
+msg-confirm-remove-all-own-shops: "&c您将不可撤消地删除所有商店 (&6{shopsCount}&c)!"
+msg-confirm-remove-all-shops-of-player: "&c您将不可撤消地删除所有玩家商店 &6{player}&c (&6{shopsCount}&c)!"
+msg-confirm-remove-all-player-shops: "&您将不可撤消地删除所有玩家的所有玩家商店 (&6{shopsCount}&c)!"
+
+msg-confirmation-required: "&7请输入＆6 / confirm以确认此操作"
+msg-confirmation-expired: "&c确认已过期。"
+msg-nothing-to-confirm: "&c目前没有什么可确认的."
+
+msg-no-permission: "您无权执行此操作。"
+
+msg-command-unknown: "&c未知的命令 '&e{command}&c'!"
+msg-command-argument-unexpected: "&c意外的论点 '&e{argument}&c'."
+msg-command-argument-requires-player: "&cArgument '&e{argumentFormat}&c'需要玩家执行命令
+msg-command-argument-invalid: "&无效的论点 '&e{argument}&c'."
+msg-command-player-argument-missing: "指定的玩家'&e{argumentFormat}&c'."
+msg-command-player-argument-invalid: c找不到w玩家"& '&e{argument}&c'."
+msg-command-shop-type-argument-invalid: "&c未知店铺类型'&e{argument}&c'."
+msg-command-shop-object-type-argument-invalid: "&c未知商店对象类型'&e{argument}&c'."
+
+msg-command-shopkeeper-argument-invalid: "＆c找不到商店'&e{argument}&c'."'不是管理员商店
+msg-command-shopkeeper-argument-no-admin-shop: "&cShopkeeper '&e{argument}&c."
+msg-command-shopkeeper-argument-no-player-shop: "&cShopkeeper '&e{argument}&c'er没有玩家购物"
+
+msg-ambiguous-player-name: "&名称有多个匹配项'&e{name}&c'!"
+msg-ambiguous-player-name-entry: "&c  - '&e{name}&r&c' (&6{uuid}&c)"
+msg-ambiguous-player-name-more: "&c  - ...."
+
+msg-command-help-title: "&9***** &8[&6Shopkeepers&e&l汉化By:&6Yuncan v{version}&8] &9*****"
+msg-command-help-usage-format: "&e{usage}"
+msg-command-help-description-format: "&8 - &3{description}"
+
+msg-command-description-shopkeeper: “创建一个商店。”."
+msg-command-description-help: “显示此帮助页面。"
+msg-command-description-reload: 重新加载此插件。."
+msg-command-description-debug: 打开和关闭调试模式。”"
+msg-command-description-list: “列出指定玩家的所有商店，或所有管理商店。"
+msg-command-description-remove: "删除指定玩家，所有玩家或所有管理员商店的所有商店。"
+msg-command-description-give: "将商店创建项目分配给指定的玩家。”."
+msg-command-description-remote: "远程开店（可选：对于其他玩家）"
+msg-command-description-remote-edit: 远程编辑商店。."
+msg-command-description-transfer: "转让商店的所有权。."
+msg-command-description-settradeperm: "设置，删除（-）或显示（？）交易许可。"
+msg-command-description-setforhire: 将您的一家商店出售。"
